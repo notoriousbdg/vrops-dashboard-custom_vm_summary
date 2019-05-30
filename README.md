@@ -4,9 +4,7 @@
 This dashboard is designed to replace the out of the box summary dashboard for Virtual Machine objects in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).  It's intended to give a high level overview of a virtual machine by showing alerts, capacity, and performance KPIs to help quickly identify areas of concern for additional troubleshooting.
 
 ## Dashboard
-![Dashboard](Dashboard.png)
-
-[comment]: ![Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-custom_vm_summary/master/Dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-custom_vm_summary/master/Dashboard.png)
 
 ## Installation
 1. Import the dashboard at `Dashboards` / `Actions` / `Manage Dashboards` / `Import Dashboards`.
