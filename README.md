@@ -1,4 +1,4 @@
-# Custom VM Summary Dashboard for vRealize Operations 7.0 and 7.5
+# Custom VM Summary Dashboard for vRealize Operations 7.0, 7.5, and 8.0
 ---------
 
 This dashboard is designed to replace the out of the box summary dashboard for Virtual Machine objects in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).  It's intended to give a high level overview of a virtual machine by showing alerts, capacity, and performance KPIs to help quickly identify areas of concern for additional troubleshooting.
@@ -24,6 +24,6 @@ This dashboard is designed to replace the out of the box summary dashboard for V
 
 ## Support
 
-This dashboard requires vRealize Operation 7.0 or 7.5 Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 7.0, 7.5, or 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-custom_vm_summary/issues) for feedback.
